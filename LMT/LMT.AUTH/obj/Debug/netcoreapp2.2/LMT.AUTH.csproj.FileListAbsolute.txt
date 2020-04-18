@@ -1,0 +1,38 @@
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.deps.json
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.runtimeconfig.json
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.runtimeconfig.dev.json
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.dll
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.csprojAssemblyReference.cache
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.csproj.CoreCompileInputs.cache
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.RazorAssemblyInfo.cache
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.RazorAssemblyInfo.cs
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.AssemblyInfoInputs.cache
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.AssemblyInfo.cs
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.RazorTargetAssemblyInfo.cache
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.pdb
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.Common.dll
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.Common.pdb
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.csproj.CopyComplete
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.dll
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.pdb
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\appsettings.json
+D:\My Project\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\My Project\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.genruntimeconfig.cache
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.deps.json
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.runtimeconfig.json
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.runtimeconfig.dev.json
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.dll
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.AUTH.pdb
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.Common.dll
+D:\dersbook\LMT\LMT.AUTH\bin\Debug\netcoreapp2.2\LMT.Common.pdb
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.csprojAssemblyReference.cache
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.csproj.CoreCompileInputs.cache
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.RazorAssemblyInfo.cache
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.RazorAssemblyInfo.cs
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.AssemblyInfoInputs.cache
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.AssemblyInfo.cs
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.RazorTargetAssemblyInfo.cache
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.csproj.CopyComplete
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.dll
+D:\dersbook\LMT\LMT.AUTH\obj\Debug\netcoreapp2.2\LMT.AUTH.pdb

@@ -1,0 +1,9 @@
+D:\LMT\LMT.Common\bin\Debug\netcoreapp2.2\LMT.Common.deps.json
+D:\LMT\LMT.Common\bin\Debug\netcoreapp2.2\LMT.Common.dll
+D:\LMT\LMT.Common\obj\Debug\netcoreapp2.2\LMT.Common.csprojAssemblyReference.cache
+D:\LMT\LMT.Common\obj\Debug\netcoreapp2.2\LMT.Common.csproj.CoreCompileInputs.cache
+D:\LMT\LMT.Common\obj\Debug\netcoreapp2.2\LMT.Common.AssemblyInfoInputs.cache
+D:\LMT\LMT.Common\obj\Debug\netcoreapp2.2\LMT.Common.AssemblyInfo.cs
+D:\LMT\LMT.Common\bin\Debug\netcoreapp2.2\LMT.Common.pdb
+D:\LMT\LMT.Common\obj\Debug\netcoreapp2.2\LMT.Common.dll
+D:\LMT\LMT.Common\obj\Debug\netcoreapp2.2\LMT.Common.pdb

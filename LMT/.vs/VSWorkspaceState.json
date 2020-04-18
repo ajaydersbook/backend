@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LMT",
+    "\\LMT.AUTH",
+    "\\LMT.Common",
+    "\\LMT.Common\\bin",
+    "\\LMT.Common\\Jwt",
+    "\\LMT.Common\\obj",
+    "\\LMT\\Controllers"
+  ],
+  "SelectedNode": "\\LMT.AUTH",
+  "PreviewInSolutionExplorer": false
+}

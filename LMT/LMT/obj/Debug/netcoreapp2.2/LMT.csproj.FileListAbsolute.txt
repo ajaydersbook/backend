@@ -1,0 +1,34 @@
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.deps.json
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.runtimeconfig.json
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.runtimeconfig.dev.json
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.dll
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.pdb
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.csprojAssemblyReference.cache
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.csproj.CoreCompileInputs.cache
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.RazorAssemblyInfo.cache
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.RazorAssemblyInfo.cs
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.AssemblyInfoInputs.cache
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.AssemblyInfo.cs
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.RazorTargetAssemblyInfo.cache
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.dll
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.pdb
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.Common.dll
+D:\My Project\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.Common.pdb
+D:\My Project\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.csproj.CopyComplete
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.deps.json
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.runtimeconfig.json
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.runtimeconfig.dev.json
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.dll
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.pdb
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.Common.dll
+D:\dersbook\LMT\LMT\bin\Debug\netcoreapp2.2\LMT.Common.pdb
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.csprojAssemblyReference.cache
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.csproj.CoreCompileInputs.cache
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.RazorAssemblyInfo.cache
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.RazorAssemblyInfo.cs
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.AssemblyInfoInputs.cache
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.AssemblyInfo.cs
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.RazorTargetAssemblyInfo.cache
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.csproj.CopyComplete
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.dll
+D:\dersbook\LMT\LMT\obj\Debug\netcoreapp2.2\LMT.pdb
