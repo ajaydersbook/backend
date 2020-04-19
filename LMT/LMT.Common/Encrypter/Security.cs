@@ -236,5 +236,29 @@ namespace LMT.Common.Encrypter
 			}
 			return cipherText;
 		}
+
+		public string CreateSalt(int size)
+		{
+			var rng = new System.Security.Cryptography.RNGCryptoServiceProvider();
+			var buff = new byte[size];
+			rng.GetBytes(buff);
+			return Convert.ToBase64String(buff);
+		}
+
+		public string GenerateSHA256Hash(String input, String salt)
+		{
+			byte[] bytes = System.Text.Encoding.UTF8.GetBytes(input + salt);
+			System.Security.Cryptography.SHA256Managed sHAHashString =
+				new System.Security.Cryptography.SHA256Managed();
+			byte[] hash = sHAHashString.ComputeHash(bytes);
+			return ByteArrayToHexString(hash);
+		}
+
+		public static string ByteArrayToHexString(byte[] ba)
+		{
+			return BitConverter.ToString(ba).Replace("-", "");
+		}
+
+
 	}
 }

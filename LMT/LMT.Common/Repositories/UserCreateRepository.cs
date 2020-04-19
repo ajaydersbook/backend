@@ -28,15 +28,17 @@ namespace LMT.Common.Repositories
 			{
 				var parameters = new DynamicParameters();
 
-				string passowrd = usercreate.Password;
-				string notEncryptedText = _security.EncryptionKey();
-				string encryptedPass = _security.Encrypt(passowrd, notEncryptedText);
+				//string passowrd = usercreate.Password;
+				//string notEncryptedText = _security.EncryptionKey();
+				//string encryptedPass = _security.Encrypt(passowrd, notEncryptedText);
+				string salt = _security.CreateSalt(10);
+				string password = _security.GenerateSHA256Hash(usercreate.Password, salt);
 
 				parameters.Add("@in_DML", "Create", dbType: DbType.String, direction: ParameterDirection.Input, size: 10);
 				parameters.Add("@in_Email", usercreate.Email, dbType: DbType.String, direction: ParameterDirection.Input, size: 100);
 				parameters.Add("@in_UserName", usercreate.UserName.ToLower(), dbType: DbType.String, direction: ParameterDirection.Input, size: 50);
-				parameters.Add("@in_Password", encryptedPass, dbType: DbType.String, direction: ParameterDirection.Input, size: 3000);
-
+				parameters.Add("@in_Password", password, dbType: DbType.String, direction: ParameterDirection.Input, size: 3000);
+				parameters.Add("@in_HashedText", salt, dbType: DbType.String, direction: ParameterDirection.Input, size: 100);
 				status = await _dataProvider.ExecuteNonQueryAsync("DBook_USP_ADMIN_User", parameters);
 
 			}
@@ -57,23 +59,32 @@ namespace LMT.Common.Repositories
 			try
 			{
 				var parameters = new DynamicParameters();
-				string passowrd = user.Password;
-				string notEncryptedText = _security.EncryptionKey();
-				string encryptedPass = _security.Encrypt(passowrd, notEncryptedText);
+				//string passowrd = user.Password;
+				//string notEncryptedText = _security.EncryptionKey();
+				//string encryptedPass = _security.Encrypt(passowrd, notEncryptedText);
 
 				parameters.Add("@in_DML", "GetByID", dbType: DbType.String, direction: ParameterDirection.Input, size: 10);
 				parameters.Add("@in_Email", user.Email, dbType: DbType.String, direction: ParameterDirection.Input, size: 100);
-				parameters.Add("@in_Password", encryptedPass, dbType: DbType.String, direction: ParameterDirection.Input, size: 3000);
+				//parameters.Add("@in_Password", encryptedPass, dbType: DbType.String, direction: ParameterDirection.Input, size: 3000);
 
 
 				parameters.Add("@ou_ResultNo", dbType: DbType.Int32, direction: ParameterDirection.Output);
 				parameters.Add("@ou_ResultMessage", dbType: DbType.String, direction: ParameterDirection.Output);
 
 				userCreate = await _dataProvider.ExecuteScalarAsync<User>("DBook_USP_ADMIN_User", parameters);
-
 				status.Code = parameters.Get<int>("@ou_ResultNo");
 				status.Message = parameters.Get<string>("@ou_ResultMessage");
+				if (!string.IsNullOrEmpty(userCreate.Password) && !string.IsNullOrEmpty(userCreate.HashedText))
+				{
+					string matchedPassword = _security.GenerateSHA256Hash(user.Password, userCreate.HashedText);
 
+					if (! (matchedPassword == userCreate.Password))
+					{
+						status.Code = 401;
+						status.Message = "UnAuthorized user";
+					}
+
+				}
 			}
 			catch (Exception ex)
 			{
@@ -82,5 +93,8 @@ namespace LMT.Common.Repositories
 			}
 			return userCreate;
 		}
+
+
+		
 	}
 }
