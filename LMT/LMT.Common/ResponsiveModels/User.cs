@@ -24,5 +24,7 @@ namespace LMT.Administration.ResponsiveModels
 		public string Email { get; set; }
 		[DataMember]
 		public string UserName { get; set; }
+		[DataMember]
+		public string HashedText { get; set; }
 	}
 }
