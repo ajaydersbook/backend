@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dersbook\\LMT\\LMT.AUTH\\LMT.AUTH.csproj": {}
+    "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.AUTH\\LMT.AUTH.csproj": {}
   },
   "projects": {
-    "D:\\dersbook\\LMT\\LMT.AUTH\\LMT.AUTH.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.AUTH\\LMT.AUTH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dersbook\\LMT\\LMT.AUTH\\LMT.AUTH.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.AUTH\\LMT.AUTH.csproj",
         "projectName": "LMT.AUTH",
-        "projectPath": "D:\\dersbook\\LMT\\LMT.AUTH\\LMT.AUTH.csproj",
-        "packagesPath": "C:\\Users\\kganesh\\.nuget\\packages\\",
-        "outputPath": "D:\\dersbook\\LMT\\LMT.AUTH\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.AUTH\\LMT.AUTH.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.AUTH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kganesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\dersbook\\LMT\\LMT.Common\\LMT.Common.csproj": {
-                "projectPath": "D:\\dersbook\\LMT\\LMT.Common\\LMT.Common.csproj"
+              "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.Common\\LMT.Common.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.Common\\LMT.Common.csproj"
               }
             }
           }
@@ -89,24 +89,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dersbook\\LMT\\LMT.Common\\LMT.Common.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.Common\\LMT.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dersbook\\LMT\\LMT.Common\\LMT.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.Common\\LMT.Common.csproj",
         "projectName": "LMT.Common",
-        "projectPath": "D:\\dersbook\\LMT\\LMT.Common\\LMT.Common.csproj",
-        "packagesPath": "C:\\Users\\kganesh\\.nuget\\packages\\",
-        "outputPath": "D:\\dersbook\\LMT\\LMT.Common\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.Common\\LMT.Common.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ajaydersbook\\backend\\LMT\\LMT.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kganesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -191,7 +191,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
