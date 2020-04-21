@@ -25,3 +25,11 @@ D:\dersbook\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.AssemblyInfo.cs
 D:\dersbook\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.dll
 D:\dersbook\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.pdb
 D:\dersbook\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\bin\Debug\netcoreapp2.0\LMT.Common.deps.json
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\bin\Debug\netcoreapp2.0\LMT.Common.dll
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\bin\Debug\netcoreapp2.0\LMT.Common.pdb
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.dll
+C:\Users\Asus\Source\Repos\ajaydersbook\backend\LMT\LMT.Common\obj\Debug\netcoreapp2.0\LMT.Common.pdb
