@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="2.2.0" />
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.5.0" />
     <PackageReference Include="Microsoft.NETCore.Platforms" Version="2.2.2" />
-    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.60" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.180" />
     <PackageReference Include="System.Data.SqlClient" Version="4.5.0" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0" />
   </ItemGroup>
